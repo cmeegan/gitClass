@@ -1,6 +1,9 @@
 Hi, Girl Develop it!
 I'm adding a second line to the file.
+<<<<<<< HEAD
 I am adding a third line for practice.
 Let's keep going....
 ....whee!
 We are changing a bunch of things this time.
+I am adding a third line for practice.
+
