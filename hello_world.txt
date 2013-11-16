@@ -4,6 +4,9 @@ I'm adding a second line to the file.
 I am adding a third line for practice.
 Let's keep going....
 ....whee!
+<<<<<<< HEAD
 We are changing a bunch of things this time.
 I am adding a third line for practice.
 
+=======
+>>>>>>> parent of 3c22824... Bunch of things
